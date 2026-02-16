@@ -1,16 +1,17 @@
-## Hi This is Rishabh Barnwal.
+<h1 align="center">Hi 👋, I'm Kushagra Kulshrestha</h1>
 
-<!--
-**rishabh-rb/Rishabh-rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![readme Quotes](https://dev-humor.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"><img src="https://github-stats-alpha.vercel.app/api?username=kk161205&cc=000&tc=fff&ic=fff&bc=000" /></div>
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kk161205&layout=compact&bg_color=black" /></div>
+<br/>
+
+---
+### 📫 Contact Me
+- 📧 Email: rishabhbarnwal1912@gmail.com
+- 📝 LinkedIn: [linkedin.com/in/rbdigital87](https://www.linkedin.com/in/rbdigital87/)
+
+---
