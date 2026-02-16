@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kushagra Kulshrestha</h1>
+<h1 align="center">Hi 👋, I'm Rishabh Barnwal</h1>
 
 [![readme Quotes](https://dev-humor.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
