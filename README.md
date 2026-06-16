@@ -79,16 +79,21 @@ I regularly solve Data Structures and Algorithms problems and enjoy tackling cha
 
 ---
 
-## 🤖 AI / ML Interests
+## 🤖 Focus Areas
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-- Natural Language Processing
-- Neural Networks
-- Model Deployment
-- MLOps
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-102230?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-102230?style=for-the-badge" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NLP-102230?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Neural%20Networks-102230?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model%20Deployment-102230?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MLOps-102230?style=for-the-badge" />
+</p>
 
 ---
 
