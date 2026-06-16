@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rishabh</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=1200&color=C97B63&center=true&vCenter=true&width=900&lines=Hello+There!+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile" />
+</p>
 
-<h3 align="center">
-B.Tech CSE (AI & ML) Student | Full Stack Developer | AI/ML Enthusiast
-</h3>
+<h1 align="center">I'm Rishabh Barnwal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+Next.js+%7C+Node.js;Machine+Learning+Explorer;Always+Learning+Something+New" />
+</p>
 
 <p align="center">
 Passionate about building scalable applications, solving DSA problems, and exploring Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.
@@ -28,42 +32,20 @@ Passionate about building scalable applications, solving DSA problems, and explo
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-### Languages
+I'm Rishabh, a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning. I enjoy building full-stack web applications, exploring modern AI technologies, and solving challenging problems through code.
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
-</p>
+My journey started with web development and gradually expanded into backend engineering, databases, machine learning, and intelligent systems. I enjoy working with technologies like React, Next.js, Node.js, Django, Flask, MongoDB, and Python to build projects that are both practical and impactful.
 
-### Frontend
+Beyond development, I actively practice Data Structures and Algorithms to strengthen my problem-solving skills and deepen my understanding of computer science fundamentals. I'm constantly learning, experimenting, and building projects that combine software engineering with AI.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-</p>
+---
 
-### Backend
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nextjs,nodejs,express,flask,django,mongodb,mysql,postgresql,tensorflow,pytorch,git,github,vscode,linux,postman&perline=11" />
 </p>
 
 ---
@@ -71,8 +53,8 @@ Passionate about building scalable applications, solving DSA problems, and explo
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishabh-rb&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-rb&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rishabh-rb&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-rb&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -80,28 +62,18 @@ Passionate about building scalable applications, solving DSA problems, and explo
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-rb&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-rb&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 DSA & Problem Solving
+## 🧠 Problem Solving
 
-- Solving Data Structures & Algorithms regularly
-- Strong understanding of:
-  - Arrays
-  - Strings
-  - Linked Lists
-  - Trees
-  - Graphs
-  - Dynamic Programming
-  - Recursion
-  - Backtracking
-- Active on LeetCode
+I regularly solve Data Structures and Algorithms problems and enjoy tackling challenges that improve analytical thinking and coding efficiency. My focus areas include problem solving, competitive programming, and writing clean, optimized solutions.
 
 <p align="center">
 <a href="https://leetcode.com/u/rishabh-rb/">
-<img src="https://leetcard.jacoblin.cool/rishabh-rb?theme=dark&font=Nunito"/>
+<img src="https://leetcard.jacoblin.cool/rishabh-rb?theme=dark&font=Nunito" />
 </a>
 </p>
 
@@ -109,44 +81,19 @@ Passionate about building scalable applications, solving DSA problems, and explo
 
 ## 🤖 AI / ML Interests
 
-✔ Machine Learning
-
-✔ Deep Learning
-
-✔ Computer Vision
-
-✔ Generative AI
-
-✔ NLP
-
-✔ Neural Networks
-
-✔ Model Deployment
-
-✔ MLOps
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rbdigital87/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/rishabh-rb">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://rb-rishabh.pages.dev/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
-</p>
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Natural Language Processing
+- Neural Networks
+- Model Deployment
+- MLOps
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rishabh-rb&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=rishabh-rb&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
