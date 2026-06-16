@@ -28,33 +28,6 @@ Passionate about building scalable applications, solving DSA problems, and explo
 
 ---
 
-## 🚀 About Me
-
-🎓 B.Tech CSE (AI & ML)
-
-💻 Full Stack Web Developer
-
-🧠 Exploring AI, Machine Learning, Deep Learning & Computer Vision
-
-🌱 Currently learning:
-- Advanced Machine Learning
-- System Design
-- Next.js
-- Generative AI
-- MLOps
-
-📚 Strong foundation in:
-- Data Structures & Algorithms
-- Object Oriented Programming
-- DBMS
-- Operating Systems
-- Computer Networks
-
-🎯 Goal:
-Build impactful products using Software Engineering and Artificial Intelligence.
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
