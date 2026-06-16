@@ -34,13 +34,15 @@ Passionate about building scalable applications, solving DSA problems, and explo
 
 ## 🚀 About Me
 
-I'm Rishabh, a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning. I enjoy building full-stack web applications, exploring modern AI technologies, and solving challenging problems through code.
+💻 Full Stack Developer • 🤖 AI/ML Enthusiast • 🎓 B.Tech CSE (AI & ML)
 
-My journey started with web development and gradually expanded into backend engineering, databases, machine learning, and intelligent systems. I enjoy working with technologies like React, Next.js, Node.js, Django, Flask, MongoDB, and Python to build projects that are both practical and impactful.
+🌱 Learning: System Design • Generative AI • MLOps
 
-Beyond development, I actively practice Data Structures and Algorithms to strengthen my problem-solving skills and deepen my understanding of computer science fundamentals. I'm constantly learning, experimenting, and building projects that combine software engineering with AI.
+⚡ Working With: React • Next.js • Node.js • Django • Flask • MongoDB
 
----
+🧠 Interested In: Machine Learning • Deep Learning • Computer Vision • NLP
+
+🎯 Mission: Building software that solves real-world problems.
 
 ## 🛠️ Tech Stack
 
