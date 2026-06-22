@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=1200&color=C97B63&center=true&vCenter=true&width=900&lines=Hello+There!+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile" />
 </p>
 
-<h1 align="center">I'm Rishabh Barnwal</h1>
+<h1 align="center">I'm Rishabh Barnwal👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+Next.js+%7C+Node.js;Machine+Learning+Explorer;Always+Learning+Something+New" />
